@@ -1,0 +1,159 @@
+﻿<doc>
+  <sampleDifferences>
+    <marketObjectTest passed="False">
+      <summary missingKeys="0" additionalKeys="0" matching="2" differences="1" uncomparableKeys="0" />
+      <differences>
+        <difference>
+          <key>DiscountCurve-PLN</key>
+          <details>
+            <YieldCurveDifferences>
+              <yieldCurveDifferences startDate="20-Jan-2022" endDate="20-Oct-2022">
+                <differences>
+                  <diff date="21-Mar-2022" expected="0.9931248883868463" actual="0.9931248883868463" diff="-3.236467399692078e-05" />
+                  <diff date="22-Mar-2022" expected="0.9930128181407176" actual="0.9930128181407176" diff="-3.1843604515580104e-05" />
+                  <diff date="23-Mar-2022" expected="0.9929007254649657" actual="0.9929007254649657" diff="-3.1340188448969464e-05" />
+                  <diff date="24-Mar-2022" expected="0.9927886103700417" actual="0.9927886103700417" diff="-3.0854419918013853e-05" />
+                  <diff date="25-Mar-2022" expected="0.9926764728663982" actual="0.9926764728663982" diff="-3.038629304041862e-05" />
+                  <diff date="28-Mar-2022" expected="0.9923399260076929" actual="0.9923399260076929" diff="-2.9087703456776026e-05" />
+                  <diff date="29-Mar-2022" expected="0.9922276989737197" actual="0.9922276989737197" diff="-2.8690084304172636e-05" />
+                  <diff date="30-Mar-2022" expected="0.9921154495833068" actual="0.9921154495833068" diff="-2.8310077343718376e-05" />
+                  <diff date="31-Mar-2022" expected="0.9920031778469144" actual="0.9920031778469144" diff="-2.7947676673800714e-05" />
+                  <diff date="01-Apr-2022" expected="0.991890883775003" actual="0.991890883775003" diff="-2.7602876388255204e-05" />
+                  <diff date="04-Apr-2022" expected="0.99155386765078" actual="0.99155386765078" diff="-2.6674018733463534e-05" />
+                  <diff date="05-Apr-2022" expected="0.9914414843414241" actual="0.9914414843414241" diff="-2.6399560864365235e-05" />
+                  <diff date="06-Apr-2022" expected="0.9913290787488706" actual="0.9913290787488706" diff="-2.614267380229851e-05" />
+                  <diff date="07-Apr-2022" expected="0.9912166508835878" actual="0.9912166508835878" diff="-2.5903351622225124e-05" />
+                  <diff date="08-Apr-2022" expected="0.9911042007560442" actual="0.9911042007560442" diff="-2.5681588394665944e-05" />
+                  <diff date="11-Apr-2022" expected="0.9907667169045589" actual="0.9907667169045589" diff="-2.5121593093868633e-05" />
+                  <diff date="12-Apr-2022" expected="0.990654177832687" actual="0.990654177832687" diff="-2.497000632506463e-05" />
+                  <diff date="13-Apr-2022" expected="0.9905416165509178" actual="0.9905416165509178" diff="-2.4835948816526177e-05" />
+                  <diff date="14-Apr-2022" expected="0.9904290330697263" actual="0.9904290330697263" diff="-2.4719414618901148e-05" />
+                  <diff date="15-Apr-2022" expected="0.9903164273995906" actual="0.9903164273995906" diff="-2.462039778128311e-05" />
+                  <diff date="18-Apr-2022" expected="0.9899784773603051" actual="0.9899784773603051" diff="-2.4428391858455356e-05" />
+                  <diff date="19-Apr-2022" expected="0.9898657830391862" actual="0.9898657830391862" diff="-2.4399384875417596e-05" />
+                  <diff date="20-Apr-2022" expected="0.989753066581526" actual="0.989753066581526" diff="-2.4387865443897816e-05" />
+                  <diff date="21-Apr-2022" expected="0.9889815906448723" actual="0.9889815906448723" diff="4.847170735200468e-05" />
+                  <diff date="22-Apr-2022" expected="0.9888732088851105" actual="0.9888732088851105" diff="4.766306559389477e-05" />
+                  <diff date="25-Apr-2022" expected="0.9885478136548644" actual="0.9885478136548644" diff="4.527388104280661e-05" />
+                  <diff date="26-Apr-2022" expected="0.9884392653155173" actual="0.9884392653155173" diff="4.4489726860996726e-05" />
+                  <diff date="27-Apr-2022" expected="0.9883306753720772" actual="0.9883306753720772" diff="4.3711689890257865e-05" />
+                  <diff date="28-Apr-2022" expected="0.9882220438408758" actual="0.9882220438408758" diff="4.293976825453516e-05" />
+                  <diff date="29-Apr-2022" expected="0.9881133707382497" actual="0.9881133707382497" diff="4.2173960075553296e-05" />
+                  <diff date="02-May-2022" expected="0.9877871021652594" actual="0.9877871021652594" diff="3.9913197486196594e-05" />
+                  <diff date="03-May-2022" expected="0.9876782629403965" actual="0.9876782629403965" diff="3.917182433188504e-05" />
+                  <diff date="04-May-2022" expected="0.987569382225865" actual="0.987569382225865" diff="3.843655522539624e-05" />
+                  <diff date="05-May-2022" expected="0.9874604600380307" actual="0.9874604600380307" diff="3.770738828079434e-05" />
+                  <diff date="06-May-2022" expected="0.9873514963932646" actual="0.9873514963932646" diff="3.698432161036713e-05" />
+                  <diff date="09-May-2022" expected="0.9870243568811603" actual="0.9870243568811603" diff="3.4851704345029155e-05" />
+                  <diff date="10-May-2022" expected="0.9869152275724762" actual="0.9869152275724762" diff="3.4153019865645895e-05" />
+                  <diff date="11-May-2022" expected="0.9868060568887892" actual="0.9868060568887892" diff="3.3460426200782045e-05" />
+                  <diff date="12-May-2022" expected="0.9866968448464999" actual="0.9866968448464999" diff="3.277392145417668e-05" />
+                  <diff date="13-May-2022" expected="0.9865875914620136" actual="0.9865875914620136" diff="3.209350372834763e-05" />
+                  <diff date="16-May-2022" expected="0.9862595834195013" actual="0.9862595834195013" diff="3.0088753676604796e-05" />
+                  <diff date="17-May-2022" expected="0.9861501648303796" actual="0.9861501648303796" diff="2.9432665028195082e-05" />
+                  <diff date="18-May-2022" expected="0.9860407049811615" actual="0.9860407049811615" diff="2.8782653891168408e-05" />
+                  <diff date="19-May-2022" expected="0.9859312038882817" actual="0.9859312038882817" diff="2.8138718359049797e-05" />
+                  <diff date="20-May-2022" expected="0.9858216615681799" actual="0.9858216615681799" diff="2.750085652436507e-05" />
+                  <diff date="23-May-2022" expected="0.9854927874090119" actual="0.9854927874090119" diff="2.5623694107634876e-05" />
+                  <diff date="24-May-2022" expected="0.9853830803445157" actual="0.9853830803445157" diff="2.5010107958522987e-05" />
+                  <diff date="25-May-2022" expected="0.9852733321350686" actual="0.9852733321350686" diff="2.4402585947491673e-05" />
+                  <diff date="26-May-2022" expected="0.9851635427971395" actual="0.9851635427971395" diff="2.380112615862906e-05" />
+                  <diff date="27-May-2022" expected="0.9850537123472018" actual="0.9850537123472018" diff="2.3205726674468963e-05" />
+                  <diff date="30-May-2022" expected="0.9847239744901476" actual="0.9847239744901476" diff="2.1455870853781533e-05" />
+                  <diff date="31-May-2022" expected="0.9846139797570095" actual="0.9846139797570095" diff="2.0884693385125885e-05" />
+                  <diff date="01-Jun-2022" expected="0.9845039439943037" actual="0.9845039439943037" diff="2.031956661241452e-05" />
+                  <diff date="02-Jun-2022" expected="0.9843938672185331" actual="0.9843938672185331" diff="1.976048860952151e-05" />
+                  <diff date="03-Jun-2022" expected="0.9842837494462048" actual="0.9842837494462048" diff="1.9207457449543774e-05" />
+                  <diff date="06-Jun-2022" expected="0.9839531503150213" actual="0.9839531503150213" diff="1.758462573142605e-05" />
+                  <diff date="07-Jun-2022" expected="0.9838428687216335" actual="0.9838428687216335" diff="1.7055762640660888e-05" />
+                  <diff date="08-Jun-2022" expected="0.9837325462142976" actual="0.9837325462142976" diff="1.653293673453682e-05" />
+                  <diff date="09-Jun-2022" expected="0.9836221828095499" actual="0.9836221828095499" diff="1.6016146077602045e-05" />
+                  <diff date="10-Jun-2022" expected="0.9835117785239315" actual="0.9835117785239315" diff="1.550538873262841e-05" />
+                  <diff date="13-Jun-2022" expected="0.9831803205473337" actual="0.9831803205473337" diff="1.400929717576549e-05" />
+                  <diff date="14-Jun-2022" expected="0.9830697529037382" actual="0.9830697529037382" diff="1.3522653678377239e-05" />
+                  <diff date="15-Jun-2022" expected="0.9829591444620491" actual="0.9829591444620491" diff="1.3042033785937157e-05" />
+                  <diff date="16-Jun-2022" expected="0.9828484952388361" actual="0.9828484952388361" diff="1.2567435553001438e-05" />
+                  <diff date="17-Jun-2022" expected="0.9827378052506737" actual="0.9827378052506737" diff="1.2098857032238897e-05" />
+                  <diff date="20-Jun-2022" expected="0.9824054908623044" actual="0.9824054908623044" diff="1.0729220255134564e-05" />
+                  <diff date="21-Jun-2022" expected="0.9822946379801837" actual="0.9822946379801837" diff="1.0284701086771264e-05" />
+                  <diff date="22-Jun-2022" expected="0.9821837444160567" actual="0.9821837444160567" diff="9.846191875717558e-06" />
+                  <diff date="23-Jun-2022" expected="0.982072810186527" actual="0.982072810186527" diff="9.413690665649455e-06" />
+                  <diff date="24-Jun-2022" expected="0.9819618353082022" actual="0.9819618353082022" diff="8.987195500576028e-06" />
+                  <diff date="27-Jun-2022" expected="0.9816286669466034" actual="0.9816286669466034" diff="7.743726686548769e-06" />
+                  <diff date="28-Jun-2022" expected="0.981517529639269" actual="0.981517529639269" diff="7.341236106017668e-06" />
+                  <diff date="29-Jun-2022" expected="0.9814063517662482" actual="0.9814063517662482" diff="6.944741766212736e-06" />
+                  <diff date="30-Jun-2022" expected="0.981295133344178" actual="0.981295133344178" diff="6.5542417015951315e-06" />
+                  <diff date="01-Jul-2022" expected="0.981183874389698" actual="0.981183874389698" diff="6.16973394662601e-06" />
+                  <diff date="04-Jul-2022" expected="0.9808498544982801" actual="0.9808498544982801" diff="5.052144852135676e-06" />
+                  <diff date="05-Jul-2022" expected="0.980738433580664" actual="0.980738433580664" diff="4.691586642291412e-06" />
+                  <diff date="06-Jul-2022" expected="0.9806269722139126" actual="0.9806269722139126" diff="4.337010889199355e-06" />
+                  <diff date="07-Jul-2022" expected="0.9805154704146943" actual="0.9805154704146943" diff="3.988415618327856e-06" />
+                  <diff date="08-Jul-2022" expected="0.9804039281996831" actual="0.9804039281996831" diff="3.6457988531468644e-06" />
+                  <diff date="11-Jul-2022" expected="0.9800690592266954" actual="0.9800690592266954" diff="2.6537998135678365e-06" />
+                  <diff date="12-Jul-2022" expected="0.97995735551534" actual="0.97995735551534" diff="2.335077284754128e-06" />
+                  <diff date="13-Jul-2022" expected="0.9798456114716287" actual="0.9798456114716287" diff="2.022323361772216e-06" />
+                  <diff date="14-Jul-2022" expected="0.9797338271122633" actual="0.9797338271122633" diff="1.7155360596543545e-06" />
+                  <diff date="15-Jul-2022" expected="0.9796220024539498" actual="0.9796220024539498" diff="1.4147133928776867e-06" />
+                  <diff date="18-Jul-2022" expected="0.9792862868524511" actual="0.9792862868524511" diff="5.480133290491906e-07" />
+                  <diff date="19-Jul-2022" expected="0.9791743011654989" actual="0.9791743011654989" diff="2.710293208751935e-07" />
+                </differences>
+              </yieldCurveDifferences>
+            </YieldCurveDifferences>
+          </details>
+        </difference>
+      </differences>
+    </marketObjectTest>
+  </sampleDifferences>
+  <sampleExpectations>
+    <marketObjects>
+      <marketObject>
+        <key>DiscountCurve-GBP</key>
+        <value>
+          <yieldCurve version="1" startDate="44581">
+            <points>
+              <point date="44588" discountFactor="0.9998083688085035" />
+              <point date="44595" discountFactor="0.9995784598518065" />
+              <point date="44612" discountFactor="0.99898203798241" />
+              <point date="44640" discountFactor="0.9979022717599957" />
+              <point date="44671" discountFactor="0.9965562513594247" />
+              <point date="44762" discountFactor="0.9925942935011677" />
+              <point date="44854" discountFactor="0.9881122915889157" />
+            </points>
+          </yieldCurve>
+        </value>
+      </marketObject>
+      <marketObject>
+        <key>DiscountCurve-JPY</key>
+        <value>
+          <yieldCurve version="1" startDate="44581">
+            <points>
+              <point date="44588" discountFactor="0.9999808352281366" />
+              <point date="44595" discountFactor="0.9999578379867208" />
+              <point date="44612" discountFactor="0.9998981571370552" />
+              <point date="44640" discountFactor="0.9997900288916464" />
+              <point date="44671" discountFactor="0.999655090295854" />
+              <point date="44762" discountFactor="0.9992569497099886" />
+              <point date="44854" discountFactor="0.9988048215715141" />
+            </points>
+          </yieldCurve>
+        </value>
+      </marketObject>
+      <marketObject>
+        <key>DiscountCurve-PLN</key>
+        <value>
+          <yieldCurve version="1" startDate="44581">
+            <points>
+              <point date="44588" discountFactor="0.9992336955409483" />
+              <point date="44595" discountFactor="0.9984220539340775" />
+              <point date="44612" discountFactor="0.9964924083222987" />
+              <point date="44640" discountFactor="0.9933027462686006" />
+              <point date="44671" discountFactor="0.989728678716082" />
+              <point date="44762" discountFactor="0.9790622752631982" />
+              <point date="44854" discountFactor="0.9677924972765556" />
+            </points>
+          </yieldCurve>
+        </value>
+      </marketObject>
+    </marketObjects>
+  </sampleExpectations>
+</doc>
